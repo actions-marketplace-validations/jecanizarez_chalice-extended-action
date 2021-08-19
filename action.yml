@@ -1,5 +1,5 @@
 # action.yml
-name: 'Chalice Extended Action'
+name: 'Chalice Extended Action python 3.8'
 description: 'This Github action allows automated deployment of your Chalice application via Github Actions.'
 author: 'Janfabian Fabriczek <janfabian@fabriczek.engineer> (Based on previous action of: Chris Oh <chris@5tigerjelly.com>)'
 branding:
